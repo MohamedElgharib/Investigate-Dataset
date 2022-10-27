@@ -1,4 +1,4 @@
-# Udacity--Project-Investigate-TMDB-Movies-Dataset
+# Project-Investigate-TMDB-Movies-Dataset
 
 ## Project Overview
 In this project, we have to analyze a dataset and then communicate our findings about it.
